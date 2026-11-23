@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "words": [
+        "chev", "chevl", "chevr",
+        "pagenums", "pagenum",
+        "rahul", "sharma",
+        "capword", "capwords",
+        "initials", "getinits",
+        "fmtdate", "fmtmoney",
+        "avatarbg",
+        "sortdir", "sortby",
+        "tailwindcss", "vite"
+    ]
+}
